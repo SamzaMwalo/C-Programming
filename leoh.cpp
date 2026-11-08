@@ -44,8 +44,8 @@ int main() {
 
     cout << "\n";
     printWithDelay(">> From: Your favorite Mechatronics guy", 40);
-    printWithDelay(">> To: Leoh, my Queen 👑", 40);
-    printWithDelay(">> Message: I like you Leoh forever!", 60);
+    printWithDelay(">> To: , my Queen 👑", 40);
+    printWithDelay(">> Message: I like you  forever!", 60);
 
     cout << "\n=================================\n";
     cout << "  Program Ended. Like = Infinite  "<< endl;
